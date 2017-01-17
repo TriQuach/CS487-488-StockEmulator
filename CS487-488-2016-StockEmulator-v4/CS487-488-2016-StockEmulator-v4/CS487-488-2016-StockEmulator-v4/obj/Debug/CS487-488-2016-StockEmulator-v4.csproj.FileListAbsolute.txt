@@ -1,0 +1,14 @@
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\bin\Debug\CS487-488-2016-StockEmulator-v4.dll
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\bin\Debug\CS487-488-2016-StockEmulator-v4.pdb
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\bin\Debug\Xamarin.Forms.Core.dll
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\bin\Debug\Xamarin.Forms.Platform.dll
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\bin\Debug\Xamarin.Forms.Core.pdb
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\bin\Debug\Xamarin.Forms.Core.xml
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\obj\Debug\CS487-488-2016-StockEmulator-v4.dll
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\obj\Debug\CS487-488-2016-StockEmulator-v4.pdb
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\obj\Debug\CS487-488-2016-StockEmulator-v4.dll.mdb
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\bin\Debug\CS487-488-2016-StockEmulator-v4.dll.mdb

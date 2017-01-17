@@ -1,0 +1,1 @@
+C:\project\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4\CS487-488-2016-StockEmulator-v4.Windows\CS487-488-2016-StockEmulator-v4.Windows.csproj;neutral
